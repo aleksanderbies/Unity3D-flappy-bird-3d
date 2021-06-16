@@ -9,7 +9,7 @@ Simple 3D game based on Flappy Bird - popular game for mobile devices made using
 * Blender 
 
 ## Usage
-To fly click space.
+To fly click space. Avoid hitting the pipes.
 
 ## Some sceenshots
 ![1](https://github.com/aleksanderbies/Unity3D-flappy-bird/blob/master/screenshots/ss1.png?raw=true)
